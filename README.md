@@ -1,4 +1,3 @@
-# COCA-REACT
 # React + TypeScript + Vite
 ## React Router DOM
 
@@ -10,7 +9,7 @@ Before getting started, make sure you have Node.js installed on your machine. Yo
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MariaEduardaAcyole/Site-COCA-React.git
+   git clone https://github.com/Eduardo1985S/react-router-vite.git
    ```
 2. Install Node dependencies:
    ```bash
@@ -20,13 +19,3 @@ Before getting started, make sure you have Node.js installed on your machine. Yo
    ```bash
    npm i react-router-dom 
    ```
-
-
-### Paginas criadas (EM PROCESSO)
-- Home.js: Página inicial do site.
-- Sobre.js: Página com informações sobre a empresa ou organização.
-- Produtos.js: Página que lista produtos ou serviços.
-- Contato.js: Página com informações de contato.
-- NotFound.js: Página de erro 404, que será exibida quando um usuário acessar uma rota não existente.
-
-  
